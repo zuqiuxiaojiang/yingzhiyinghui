@@ -29,10 +29,10 @@
 安全操作规程：
 [SN600](czgc_lxfl.md) |
 [SN650](czgc_zfns.md) |
-[SN700](czgc_gz.md) |
-[SN300](czgc_yth.md) |
+[SN700≈SN700副](czgc_gz.md) |
+[SN300≈SN300副](czgc_yth.md) |
 [SN400](czgc_fj.md) |
-[SN500](czgc_zl.md) |
+[SN500≈SN500副](czgc_zl.md) |
 [包装工](czgc_bzg.md) |
 [维修工](czgc_wxg.md) |
 [焊工](czgc_hg.md)
