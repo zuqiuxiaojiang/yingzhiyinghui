@@ -37,5 +37,6 @@
 [维修工](czgc_wxg.md) |
 [焊工](czgc_hg.md)
 
+其他：
 [数字国投APP](https://newapp.sdic.com.cn) |
 [国投生物网络考试系统](http://exam.gtswims.com)
