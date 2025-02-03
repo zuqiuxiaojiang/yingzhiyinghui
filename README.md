@@ -16,10 +16,15 @@
 安全生产责任制：
 [SN600/SN650/SN700副/SN300/SN300副/SN400/SN500/SN500副/……](zrz.md) |
 [班长](zrz_bz.md) |
+[包装工](zrz_bzg.md) |
+[维修工](zrz_wxg.md) |
+[焊工](zrz_hg.md) |
 [二控段长/一控段长](zrz_dz.md) |
 [维修段长](zrz_wxdz.md) |
-
-
+[技术员](zrz_jsy.md) |
+[安全员](zrz_aqy.md) |
+[副主任](zrz_fzr.md) |
+[酒精车间三线](zrz_jjcjsx.md)
 
 安全操作规程：
 
