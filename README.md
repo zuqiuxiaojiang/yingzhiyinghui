@@ -11,6 +11,7 @@
 [高空坠落](yjcz_gkzl.md)|
 [火灾](yjcz_hz.md)
 
+[安全生产禁令11条](scjl.md)
 
 [数字国投APP](https://newapp.sdic.com.cn)|
 [国投生物网络考试系统](http://exam.gtswims.com)
