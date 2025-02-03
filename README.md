@@ -38,7 +38,7 @@
 [焊工](czgc_hg.md)
 
 其他：
-[数字国投APP](https://newapp.sdic.com.cn) |
-[国投生物网络考试系统](http://exam.gtswims.com) |
+[岗位危险辨识（文字版）](gwwxbs.md) |
 [离心机故障代码（文字版）](lxjgzdm_wz.md) |
-[岗位危险辨识（文字版）](gwwxbs.md)
+[数字国投APP](https://newapp.sdic.com.cn) |
+[国投生物网络考试系统](http://exam.gtswims.com)
