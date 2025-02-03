@@ -13,5 +13,9 @@
 
 [安全生产禁令11条](scjl.md)
 
+安全生产责任制：
+
+安全操作规程：
+
 [数字国投APP](https://newapp.sdic.com.cn)|
 [国投生物网络考试系统](http://exam.gtswims.com)
