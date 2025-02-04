@@ -38,7 +38,7 @@
 [安全生产禁令⑪条](scjl.md)
 
 其他：
-[岗位危险辨识（图片版）](gwwxbs_tp.md) | 
+[岗位危险辨识（图片版）](gwwxbstp.md) | 
 [岗位危险辨识（文字版）](gwwxbs_wz.md) | 
 [离心机故障代码（图片版）](lxjgzdm_tp.md) | 
 [离心机故障代码（文字版）](lxjgzdm_wz.md) | 
