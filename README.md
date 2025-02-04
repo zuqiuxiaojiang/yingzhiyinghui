@@ -11,8 +11,6 @@
 [高空坠落](yjcz_gkzl.md) |
 [火灾](yjcz_hz.md)
 
-[安全生产禁令⑪条](scjl.md)
-
 安全生产责任制：
 [SN600/SN650/SN700副/SN300/SN300副/SN400/SN500/SN500副/……](zrz.md) |
 [班长](zrz_bz.md) |
@@ -36,6 +34,8 @@
 [包装工](czgc_bzg.md) |
 [维修工](czgc_wxg.md) |
 [焊工](czgc_hg.md)
+
+[安全生产禁令⑪条](scjl.md)
 
 其他：
 [岗位危险辨识（文字版）](gwwxbs.md) |
