@@ -14,9 +14,9 @@
 安全生产责任制：
 [SN600/SN650/SN700副/SN300/SN300副/SN400/SN500/SN500副/……](zrz.md) | 
 [班长](zrz_bz.md) | 
-[包装工](zrz_bzg.md) | 
 [维修工](zrz_wxg.md) | 
 [焊工](zrz_hg.md) | 
+[包装工](zrz_bzg.md) | 
 [二控段长/一控段长](zrz_dz.md) | 
 [维修段长](zrz_wxdz.md) | 
 [技术员](zrz_jsy.md) | 
@@ -31,9 +31,9 @@
 [SN300≈SN300副](czgc_yth.md) | 
 [SN400](czgc_fj.md) | 
 [SN500≈SN500副](czgc_zl.md) | 
-[包装工](czgc_bzg.md) | 
 [维修工](czgc_wxg.md) | 
-[焊工](czgc_hg.md)
+[焊工](czgc_hg.md) | 
+[包装工](czgc_bzg.md)
 
 [安全生产禁令⑪条](scjl.md)
 
